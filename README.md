@@ -24,6 +24,7 @@
 ```yaml
 Name: Bùi Hoài Anh
 Role: Frontend Developer
+
 Focus:
   - React
   - Next.js
@@ -45,8 +46,8 @@ Interests:
 
 - 🎨 ミニマルで近未来風の UI デザインが好きです  
 - ⚛️ React・Next.js を中心にフロントエンド開発を勉強中  
-- 🚀 モダンで使いやすい Web アプリケーションを作ることに興味があります  
-- 💡 UI/UX を改善しながら、新しい技術を学ぶことが好きです  
+- 🚀 モダンで使いやすい Web アプリケーション開発に興味があります  
+- 💡 UI/UX を改善しながら新しい技術を学ぶことが好きです  
 
 ---
 
@@ -73,7 +74,8 @@ Interests:
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ## 🖐️ Sign Language Recognition
 
@@ -87,7 +89,7 @@ https://github.com/liliustwocout/Sign-Language-Recognition
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚗 Manage Car
 
@@ -99,19 +101,26 @@ Website bán xe ô tô được xây dựng bằng Laravel + Vite.
 🔗  
 https://github.com/dovanduy2005/WebNc_k17_2026_HK2_Group10
 
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhanh92&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanh92&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanh92&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -121,7 +130,7 @@ https://github.com/dovanduy2005/WebNc_k17_2026_HK2_Group10
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/bhanh92/bhanh92/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
