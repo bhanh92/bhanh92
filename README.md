@@ -32,6 +32,7 @@ Focus:
 
 Languages:
   - Vietnamese 🇻🇳
+  - Japanese 🇯🇵
   - English 🇺🇸
 
 Interests:
